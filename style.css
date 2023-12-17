@@ -1,0 +1,19 @@
+table, th, td{
+    border:3px solid black;
+}
+.project{
+    background-color:darkslategrey;
+    color:#fff;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height:100vh;
+
+}
+.color{
+    color:aliceblue;
+    display: flex;
+    flex-direction: row;
+
+}
