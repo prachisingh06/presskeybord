@@ -1,4 +1,4 @@
-console.alert("please open on any destop");
+alert("please open on any destop");
 
 const insert =  document.getElementById('insert')
 window.addEventListener('keydown',(e)=>{
